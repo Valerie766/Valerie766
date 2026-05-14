@@ -66,19 +66,6 @@ My long-term goal is to create meaningful experiences within the game and entert
 
 ---
 
-# 📂 Featured Projects
-
-## Project Name
-
-Short description of your project.
-
-### Focus Areas
-
-* Gameplay Design
-* Narrative Design
-* Exploration
-* Environmental Storytelling
-
 ### Tools Used
 
 * Unreal Engine 5
